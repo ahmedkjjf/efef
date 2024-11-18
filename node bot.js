@@ -10,7 +10,7 @@ const client = new Client({
     ]
 });
 
-const TOKEN = 'MTMwNTkzNzYwMjkwNTUwOTk4OA.G4C0lN.QH9EI9wS2PKB_vfVvOrtI8dbfN11S5NT-5-jKo'; // ضع توكن البوت هنا
+const TOKEN = 'MTMwNTkzNzYwMjkwNTUwOTk4OA.GbEqoK.V61xHBRgT49sm2swxlueIQza_Sp0xv69NqtANk'; // ضع توكن البوت هنا
 let streakData = {};
 
 // تحميل بيانات الستريك من ملف JSON
